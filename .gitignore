@@ -1,0 +1,6 @@
+.DS_Store
+backup/
+key
+md5list
+src/
+test.sh
